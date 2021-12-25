@@ -1,0 +1,24 @@
+size = 1600, granularity : default, partitioner: auto_partitioner
+number of threads: 1| size 1600| time 0.289821(s)
+number of threads: 2| size 1600| time 0.162251(s)
+number of threads: 4| size 1600| time 0.111695(s)
+
+size = 1600, granularity = 70, partitioner: auto_partitioner
+number of threads: 1| size 1600| time 0.317831(s)
+number of threads: 2| size 1600| time 0.16533(s)
+number of threads: 4| size 1600| time 0.148155(s)
+
+size = 1600, granularity = default, partitioner: simple_partitioner
+number of threads: 1| size 1600| time 0.270562(s)
+number of threads: 2| size 1600| time 0.173953(s)
+number of threads: 4| size 1600| time 0.14708(s)
+
+size = 1600, granularity = default, partitioner: static_partitioner
+number of threads: 1| size 1600| time 0.264003(s)
+number of threads: 2| size 1600| time 0.161465(s)
+number of threads: 4| size 1600| time 0.183012(s)
+
+size = 3200, granularity = default, partitioner: auto_partitioner
+number of threads: 1| size 3200| time 1.01821(s)
+number of threads: 2| size 3200| time 0.534535(s)
+number of threads: 4| size 3200| time 0.333627(s)
