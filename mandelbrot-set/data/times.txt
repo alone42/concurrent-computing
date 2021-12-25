@@ -1,0 +1,4 @@
+number of threads | time (s)
+1		     0.066
+2		     0.04
+4		     0.037
