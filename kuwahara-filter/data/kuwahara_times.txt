@@ -1,0 +1,32 @@
+
+n threads: 1| granularity = 10| time: 5.5219
+
+n threads: 2| granularity = 10| time: 5.42278
+
+n threads: 3| granularity = 10| time: 5.01171
+
+n threads: 4| granularity = 10| time: 4.95363
+
+n threads: 1| granularity = 100| time: 5.18241
+
+n threads: 2| granularity = 100| time: 5.0901
+
+n threads: 3| granularity = 100| time: 5.05803
+
+n threads: 4| granularity = 100| time: 4.77266
+
+n threads: 1| granularity = 300| time: 5.24578
+
+n threads: 2| granularity = 300| time: 5.15724
+
+n threads: 3| granularity = 300| time: 4.91241
+
+n threads: 4| granularity = 300| time: 4.02194
+
+n threads: 1| granularity = 400| time: 5.23484
+
+n threads: 2| granularity = 400| time: 5.16971
+
+n threads: 3| granularity = 400| time: 4.86357
+
+n threads: 4| granularity = 400| time: 4.7446
