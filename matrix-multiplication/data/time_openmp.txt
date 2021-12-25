@@ -1,0 +1,6 @@
+A * A
+number of threads: 5| size 500| time 0.113645(s)
+number of threads: 5| size 1000| time 10.9411(s)
+A * A_transpose 
+number of threads: 5| size 500| time 0.0857203(s)
+number of threads: 5| size 1000| time 0.747138(s)
